@@ -1,0 +1,235 @@
+/*ES devices(Portrait)*/
+@media (max-width:575.98px) {
+
+	/*header*/
+	.logo{
+		padding-bottom: 10px;s
+	}
+	.logo a{
+		font-size: 20px;
+	}
+	.menu ul li{
+		padding: 5px 0;
+	}
+    .cm_padd{    	
+ 	    padding-bottom: 50px;
+    }
+    .cm_btn{
+ 	    padding: 12px 20px;
+    }
+    .wtn{}
+    .wtn_h1{
+ 	    margin: 26px 0 0;
+ 	    font-size: 24px;
+    }
+    .a_text{
+	    padding-top: 30px;
+    }
+    .a_h1{
+	    margin-bottom: 20px;
+	    text-align: center;
+    }
+    .a_p1{
+ 	    padding: 0;
+ 	    margin-bottom: 15px;
+ 	    line-height: 20px;
+    }
+    .a_p2{
+ 	    padding: 0;
+ 	    line-height: 20px;
+ 	    margin-bottom: 35px;
+    }
+    .a_a{
+ 	    text-align: center;
+    }
+    .a_text a{
+ 	    padding: 10px 10px;
+    }
+ /*options*/
+ .op_items ul li a{
+ 	padding: 0 !important;
+ 	letter-spacing: 0;
+ 	word-spacing: 0;
+ }
+ .op_img img{
+ 	padding: 25px 10px 0;
+ }
+ /*feature*/
+ .line{
+ 	border-left: 1px solid #000000;
+ 	height: 40px;
+ }
+ .f_h1{
+ 	padding: 55px 0 10px;
+ 	font-size: 30px;
+ }
+ .f_item{
+ 	padding-top: 50px;
+ 	text-align: center;
+ }
+ .f_icon i{
+ 	padding-bottom: 10px;
+ }
+ .f_h2{
+ 	margin: 0;
+ 	text-align: center;
+ }
+ .f_p{
+ 	padding: 0;
+ }
+ /*w3*/
+ .w3_h1{
+ 	font-size: 27px;
+ }
+ .w3_item{
+	width: 215px;
+ }
+ /*bp*/
+ .bp_item{
+ 	margin-top: 45px;
+ }
+ .bp_h2{
+ 	padding-bottom: 10px;
+ 	font-size: 25px;
+ }
+ 
+ .bp_list ul li{
+	line-height: 27pt;
+ }
+ /*contact*/
+ .cf{
+ 	margin-top: 50px;
+ }
+ .cf_h1{
+ 	padding: 0 6px;
+ 	top: -67px;
+ 	font-size: 26px;
+ }
+  .cf input{
+ 	padding: 10px 12px;
+ }
+ .cf_name input{
+ 	width: 47%;
+ }
+ .cf_name input:first-child{
+ 	margin-right: 10px;
+ }
+ .cf_ym{
+ 	padding: 30px 12px !important;
+ }
+ .form_btn{
+ 	margin: 36px 0;
+ }
+ .sn_btn span{
+ 	margin: 6px;
+ }
+ /*footer*/
+ .f_mb{
+ 	margin-bottom: 20px;
+ }
+ .footer_text{}
+ .footer_text p{
+ 	margin: 25px 0;
+ }
+ .sm_icon{
+ 	margin-bottom: 60px;
+ }
+ .sm_icon ul li{}
+ .sm_icon ul li a{}
+ .sm_icon ul li a i{
+ 	padding: 6px 6px;
+ 	font-size: 18px;
+ }
+}
+/*Small devices(Portrait)*/
+@media (min-width:576px) and (max-width:767.98) {
+
+ 
+}
+/*Medium devices(Portrait)*/
+@media (min-width:768px) and (max-width:991.98px) {
+	/*header*/
+	.logo a{
+		font-size: 25px;
+	}
+	.menu ul li{
+		padding: 5px 0;
+	}
+}
+
+	.s_item{
+		margin: 150px 0 200px;
+	}
+	.s_item a{
+		padding: 12px 20px;
+	}
+	.s_h1{
+		padding: 0 0 35px 0;
+		font-size: 50px;
+	}
+	.s_p{
+		padding: 0 75 px 50px 0;
+	}
+	.s_item a{
+		padding: 10px 20px;
+	}
+/*Large devices(Portrait)*/
+@media (min-width:992px) and (max-width:1199.98px) {
+	/*header*/
+	.s_item{
+		margin: 150px 0 200px;
+	}
+	.s_item a{
+		padding: 10px 20px;
+	}
+	.s_h1{
+		padding: 0 0 35px 0;
+		font-size: 50px;
+	}
+	.s_p{
+		padding: 0 0 50px 0;
+	}
+	.wtn_h1{
+		padding-bottom: 30px;
+	}
+	.wtn_p{
+		padding: 0 62px;
+	}
+	.serv{
+	margin-top: 80px;
+	padding: 55px 10px 25px;
+    }
+    .w3_item{
+    	width: 222px;
+    }
+    /*banner*/
+    .s_item{
+    	margin: 150px 0 150px;
+    }
+    /*bp*/
+    .bp_item{
+    	padding: 55px 15px 45px;
+    }
+    .bp_a{
+    	padding: 5px 45px;
+    }
+    /*contact*/
+    .sn_btn{
+    	padding: 14px 36px;
+    }
+    /*footer*/
+    .sm_icon{
+    	margin-bottom: 80px;
+    }
+    .footer_bottom{
+    	padding: 45px 0;
+    }
+}
+/*EL devices(Portrait)*/
+@media (min-width:1200px) and (max-width:1399.98px) {
+
+}
+/*EEL devices(Portrait)*/
+@media (min-width:1400px) {
+
+}
